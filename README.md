@@ -1,3 +1,3 @@
 <b>prak-jarkom</b>
 <br>
-Praktikum Jaringan Komputer
+Praktikum Jaringan Komputer / D
