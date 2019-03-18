@@ -1,3 +1,3 @@
 <b>prak-jarkom</b>
-<hr>
+<br>
 Praktikum Jaringan Komputer
